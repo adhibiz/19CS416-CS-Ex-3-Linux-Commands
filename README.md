@@ -1,4 +1,4 @@
-# 19CS416-CS-Ex-3-Linux-Commands
+![image](https://github.com/user-attachments/assets/331e92b9-e4b5-46c3-9475-4b2fae5496be)# 19CS416-CS-Ex-3-Linux-Commands
 
 **Linux** is an open-source operating system, and its kernel is the heart of the OS, facilitating communication between hardware and software. One of the key advantages of Linux is its customizability; developers can modify the Linux kernel to create their own tailored operating systems.
 
@@ -16,6 +16,8 @@ ls
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/9356b642-d8e2-4333-941f-c5a6f9bee0f6)
+
 
 ### 2. `pwd` Command
 
@@ -27,6 +29,8 @@ pwd
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/b5628811-2bd9-4fc8-b07f-8a399a32b026)
+
 
 ### 3. `mkdir` Command
 
@@ -38,6 +42,8 @@ mkdir <directory_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/a3ad0c18-81fb-4e4a-9014-3d2ab9a36519)
+
 
 ### 4. `rmdir` Command
 
@@ -49,6 +55,7 @@ rmdir <directory_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/d9b44846-cae3-4e7f-9312-f4ee6852da00)
 
 ### 5. `cd` Command
 
@@ -60,6 +67,8 @@ cd <directory_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/f328be81-8fd4-4ae0-bba3-32882a41c835)
+
 
 ### 6. `cat` Command
 
@@ -71,6 +80,8 @@ cat [OPTION]... [FILE]...
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/75f5d7ad-4021-40b3-a20b-8b250f0ef3fd)
+
 
 ### 7. `cp` Command
 
@@ -82,6 +93,7 @@ cp <source_file> <destination_file>
 ```
 
 **Output:**
+
 
 ### 8. `gedit` Command
 
